@@ -19,8 +19,8 @@ p{
 /* the typewriting animation for hero section */
 .typewriter{
     list-style: none;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 2rem;
+    line-height: 2rem;
     font-size: 1.5rem;
     font-weight: 600;
     overflow: hidden;
